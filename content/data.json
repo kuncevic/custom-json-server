@@ -1,0 +1,356 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Felton",
+      "lastName": "Will",
+      "userName": "Rickey.Padberg57",
+      "isLocked": 0,
+      "email": "Felicia.Block@gmail.com",
+      "lastLogin": "2025-10-02T04:54:13.370Z",
+      "role": 4
+    },
+    {
+      "id": 2,
+      "firstName": "Leatha",
+      "lastName": "Lesch",
+      "userName": "Amanda24",
+      "isLocked": 0,
+      "email": "Katelynn.Conn5@hotmail.com",
+      "lastLogin": "2028-02-19T13:06:38.411Z",
+      "role": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Isadore",
+      "lastName": "O'Kon",
+      "userName": "Roy11",
+      "isLocked": 0,
+      "email": "Kole_Witting@yahoo.com",
+      "lastLogin": "2026-06-17T06:07:37.368Z",
+      "role": 4
+    },
+    {
+      "id": 4,
+      "firstName": "Julien",
+      "lastName": "Gibson",
+      "userName": "Macie22",
+      "isLocked": 0,
+      "email": "Anne35@yahoo.com",
+      "lastLogin": "2027-02-11T15:30:15.212Z",
+      "role": 4
+    },
+    {
+      "id": 5,
+      "firstName": "Eino",
+      "lastName": "Sawayn",
+      "userName": "Emory.Johnson6",
+      "isLocked": 0,
+      "email": "Randal3@hotmail.com",
+      "lastLogin": "2027-01-05T02:16:53.908Z",
+      "role": 3
+    },
+    {
+      "id": 6,
+      "firstName": "Bernard",
+      "lastName": "Cormier",
+      "userName": "Mariana10",
+      "isLocked": 1,
+      "email": "Lola90@gmail.com",
+      "lastLogin": "2030-02-23T22:29:31.805Z",
+      "role": 3
+    },
+    {
+      "id": 7,
+      "firstName": "Valentina",
+      "lastName": "Abernathy",
+      "userName": "Buddy.Heaney38",
+      "isLocked": 0,
+      "email": "Chanelle_Koepp@hotmail.com",
+      "lastLogin": "2025-04-26T01:19:52.887Z",
+      "role": 5
+    },
+    {
+      "id": 8,
+      "firstName": "Walton",
+      "lastName": "Hauck",
+      "userName": "Clemmie50",
+      "isLocked": 1,
+      "email": "Stephan_Sanford@yahoo.com",
+      "lastLogin": "2025-03-14T19:24:58.834Z",
+      "role": 1
+    },
+    {
+      "id": 9,
+      "firstName": "Rosa",
+      "lastName": "Tremblay",
+      "userName": "Brett88",
+      "isLocked": 0,
+      "email": "Ford68@gmail.com",
+      "lastLogin": "2023-03-09T14:58:24.508Z",
+      "role": 5
+    },
+    {
+      "id": 10,
+      "firstName": "Zula",
+      "lastName": "Nienow",
+      "userName": "Electa.Runolfsdottir",
+      "isLocked": 1,
+      "email": "Randal30@yahoo.com",
+      "lastLogin": "2025-08-28T14:12:50.195Z",
+      "role": 2
+    }
+  ],
+  "salesOrders": [
+    {
+      "id": 1,
+      "customId": "ef436dde",
+      "customerId": 8,
+      "salesOrderDate": "2023-03-16T09:54:04.412Z",
+      "amount": 658,
+      "contractId": 9,
+      "salesOrderStatusId": 3,
+      "serviceDeliveryDate": "2022-08-16T00:11:31.927Z",
+      "serviceDetails": {
+        "description": "Eius architecto fugiat hic. Sapiente iure delectus odio modi porro doloribus eligendi illo quam. Asperiores delectus ut quod alias deleniti culpa suscipit laborum. Voluptatem quidem atque dolore.",
+        "quantity": 9,
+        "cost": 30483
+      }
+    },
+    {
+      "id": 2,
+      "customId": "23788b41",
+      "customerId": 8,
+      "salesOrderDate": "2023-02-02T05:54:08.903Z",
+      "amount": 691,
+      "contractId": 3,
+      "salesOrderStatusId": 2,
+      "serviceDeliveryDate": "2022-01-27T12:23:58.638Z",
+      "serviceDetails": {
+        "description": "Reprehenderit quas voluptates at. Officiis blanditiis eum vitae hic rerum accusamus. Deleniti sapiente quaerat molestiae fuga inventore enim vero amet. Explicabo ducimus odio consequatur quae quo sit. Quis maiores blanditiis aspernatur illum. Dicta quam facilis eius expedita esse quo.",
+        "quantity": 9,
+        "cost": 14971
+      }
+    },
+    {
+      "id": 3,
+      "customId": "27a1c56f",
+      "customerId": 4,
+      "salesOrderDate": "2022-12-02T16:25:18.298Z",
+      "amount": 518,
+      "contractId": 5,
+      "salesOrderStatusId": 1,
+      "serviceDeliveryDate": "2022-11-11T04:31:32.247Z",
+      "serviceDetails": {
+        "description": "Odit necessitatibus at excepturi iste. Nam repellendus nostrum praesentium temporibus praesentium tempora. Officia eveniet error animi quo magnam blanditiis consectetur. Officiis quaerat ullam velit ex impedit recusandae aperiam numquam. Voluptate possimus sit blanditiis iusto cum rerum delectus iure.",
+        "quantity": 4,
+        "cost": 3118
+      }
+    },
+    {
+      "id": 4,
+      "customId": "00f0da26",
+      "customerId": 4,
+      "salesOrderDate": "2023-03-01T01:23:11.495Z",
+      "amount": 708,
+      "contractId": 3,
+      "salesOrderStatusId": 1,
+      "serviceDeliveryDate": "2022-10-11T06:01:12.297Z",
+      "serviceDetails": {
+        "description": "Quisquam quas delectus quibusdam similique veniam. Quidem explicabo minima voluptatem iusto. Eum eum doloribus neque ipsa fugiat. Nulla dicta dolores nam ea odio nobis laudantium id. Possimus ipsam possimus asperiores optio eum facilis molestiae. Expedita dolorum deserunt blanditiis exercitationem ea.",
+        "quantity": 9,
+        "cost": 48309
+      }
+    },
+    {
+      "id": 5,
+      "customId": "3ac22b7e",
+      "customerId": 2,
+      "salesOrderDate": "2022-03-16T08:49:46.885Z",
+      "amount": 999,
+      "contractId": 2,
+      "salesOrderStatusId": 4,
+      "serviceDeliveryDate": "2022-08-07T14:27:02.413Z",
+      "serviceDetails": {
+        "description": "Aut laudantium magni explicabo sint rem sunt molestiae quis non. Recusandae nisi cum nihil magnam harum quasi provident. Velit vitae optio.",
+        "quantity": 1,
+        "cost": 15180
+      }
+    },
+    {
+      "id": 6,
+      "customId": "47d6b220",
+      "customerId": 8,
+      "salesOrderDate": "2022-10-09T21:16:08.542Z",
+      "amount": 515,
+      "contractId": 3,
+      "salesOrderStatusId": 4,
+      "serviceDeliveryDate": "2022-05-16T07:12:44.232Z",
+      "serviceDetails": {
+        "description": "Nihil debitis atque quo nihil necessitatibus. Minima exercitationem cum. Deserunt eum assumenda quibusdam ratione optio. Dolor beatae natus aut. Provident nostrum quae totam alias repellendus consectetur. Sed optio quasi quibusdam non cupiditate aliquam.",
+        "quantity": 9,
+        "cost": 13876
+      }
+    },
+    {
+      "id": 7,
+      "customId": "3057c509",
+      "customerId": 2,
+      "salesOrderDate": "2022-01-01T03:57:15.088Z",
+      "amount": 917,
+      "contractId": 1,
+      "salesOrderStatusId": 4,
+      "serviceDeliveryDate": "2022-05-15T05:40:22.054Z",
+      "serviceDetails": {
+        "description": "Aut modi et ut possimus vitae. Iure voluptatibus ratione sunt sed illum omnis nostrum quos nisi. A sapiente voluptate. Quos consectetur necessitatibus aut facere maiores nihil.",
+        "quantity": 8,
+        "cost": 19217
+      }
+    },
+    {
+      "id": 8,
+      "customId": "0ad48722",
+      "customerId": 2,
+      "salesOrderDate": "2022-10-24T00:03:30.076Z",
+      "amount": 616,
+      "contractId": 10,
+      "salesOrderStatusId": 4,
+      "serviceDeliveryDate": "2022-08-08T14:48:20.099Z",
+      "serviceDetails": {
+        "description": "Beatae iusto illum repellat. Ex dignissimos nihil eaque dignissimos perferendis voluptatem ad. Consequuntur vero sed debitis aperiam quibusdam dolores nostrum vitae tenetur. Nostrum vero itaque natus blanditiis assumenda accusamus odit accusamus. Earum doloribus eaque labore hic.",
+        "quantity": 9,
+        "cost": 41109
+      }
+    },
+    {
+      "id": 9,
+      "customId": "8d06c01a",
+      "customerId": 1,
+      "salesOrderDate": "2022-08-30T11:48:14.998Z",
+      "amount": 335,
+      "contractId": 8,
+      "salesOrderStatusId": 3,
+      "serviceDeliveryDate": "2022-09-28T22:09:58.220Z",
+      "serviceDetails": {
+        "description": "Nesciunt culpa omnis voluptate illum eum distinctio hic. Provident fugit delectus. Eos autem omnis tempore ducimus atque debitis ex veniam eaque.",
+        "quantity": 4,
+        "cost": 35836
+      }
+    },
+    {
+      "id": 10,
+      "customId": "8de2a605",
+      "customerId": 1,
+      "salesOrderDate": "2022-10-09T12:02:45.291Z",
+      "amount": 798,
+      "contractId": 3,
+      "salesOrderStatusId": 2,
+      "serviceDeliveryDate": "2022-03-18T09:02:10.193Z",
+      "serviceDetails": {
+        "description": "Reiciendis omnis tenetur error consequuntur quam quisquam nobis asperiores praesentium. Et nostrum culpa sunt numquam. Totam dolorum expedita consequatur id consequatur.",
+        "quantity": 3,
+        "cost": 17918
+      }
+    }
+  ],
+  "salesItems": [
+    {
+      "id": 1,
+      "salesOrderId": 9,
+      "customerId": 3,
+      "description": "Ex deserunt iusto cupiditate necessitatibus.",
+      "amount": 421,
+      "includeGST": true
+    },
+    {
+      "id": 2,
+      "salesOrderId": 8,
+      "customerId": 2,
+      "description": "Quibusdam possimus aliquam magnam accusantium dolorum magni ipsum eius enim.",
+      "amount": 287,
+      "includeGST": true
+    },
+    {
+      "id": 3,
+      "salesOrderId": 1,
+      "customerId": 9,
+      "description": "Enim magnam natus vel.",
+      "amount": 304,
+      "includeGST": true
+    },
+    {
+      "id": 4,
+      "salesOrderId": 6,
+      "customerId": 4,
+      "description": "Facere laudantium rerum minima nam corrupti repellat soluta.",
+      "amount": 438,
+      "includeGST": true
+    },
+    {
+      "id": 5,
+      "salesOrderId": 8,
+      "customerId": 6,
+      "description": "Quibusdam tempore officiis praesentium maiores dicta.",
+      "amount": 800,
+      "includeGST": true
+    },
+    {
+      "id": 6,
+      "salesOrderId": 7,
+      "customerId": 8,
+      "description": "Et cumque corporis sapiente beatae.",
+      "amount": 737,
+      "includeGST": true
+    },
+    {
+      "id": 7,
+      "salesOrderId": 3,
+      "customerId": 1,
+      "description": "Fugiat eius adipisci commodi.",
+      "amount": 740,
+      "includeGST": false
+    },
+    {
+      "id": 8,
+      "salesOrderId": 7,
+      "customerId": 2,
+      "description": "Accusamus accusamus eaque aliquam voluptatem saepe nobis amet ea.",
+      "amount": 601,
+      "includeGST": false
+    },
+    {
+      "id": 9,
+      "salesOrderId": 7,
+      "customerId": 1,
+      "description": "Voluptatibus eligendi iusto illo.",
+      "amount": 886,
+      "includeGST": false
+    },
+    {
+      "id": 10,
+      "salesOrderId": 9,
+      "customerId": 1,
+      "description": "Quam quidem nam cupiditate voluptates vitae culpa autem.",
+      "amount": 216,
+      "includeGST": true
+    }
+  ],
+  "salesOrderStatuses": [
+    {
+      "id": 1,
+      "name": "pending for invoice"
+    },
+    {
+      "id": 2,
+      "name": "pending approval"
+    },
+    {
+      "id": 3,
+      "name": "rejected"
+    },
+    {
+      "id": 4,
+      "name": "billed"
+    }
+  ]
+}

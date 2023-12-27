@@ -1,0 +1,32 @@
+{
+  "name": "json-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "module": "module",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.5",
+    "express": "^4.18.2",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/fs-extra": "^11.0.4",
+    "@types/json-server": "^0.14.7",
+    "@types/node": "^20.10.5",
+    "@types/nodemon": "^1.19.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "volta": {
+    "node": "20.10.0"
+  }
+}
